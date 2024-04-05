@@ -12,7 +12,6 @@ You can continue to your last lab assignment to implement followings.
 ### Technical Details
 ---
 * Use n-tier software architecture model.
-* Use DTOs.
 * Populate your database with dummy data using `data.sql`.
 
 
